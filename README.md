@@ -33,29 +33,13 @@ For further Unix monitoring measures, please refer to the documentation on
 
 ## Configuration
 
-Name
-
-Value
-
-Filesystem
-
-Linux filesystem name.
-
-Method
-
-Specify the type of Connection.
-
-Authentication Method
-
-Specify the type of SSH Authentication.
-
-Username
-
-The username that is used for authorization with the host.
-
-Password
-
-The password for the username.
+| Name | Value
+| :--- | :---
+| Filesystem | Linux filesystem name.
+| Method | Specify the type of Connection.
+| Authentication Method | Specify the type of SSH Authentication.
+| Username | The username that is used for authorization with the host.
+| Password | The password for the username.
 
 ## Installation
 
