@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Require-Bundle: com.dynatrace.diagnostics.sdk
+Bundle-Vendor: dynaTrace Community
+Ant-Version: Apache Ant 1.7.1
+Bundle-ClassPath: .,lib/ganymed-ssh2-build210.jar
+Bundle-Version: 1.0.1
+Bundle-Name: Linux Filesystem Status Plugin
+Bundle-ManifestVersion: 2
+Created-By: 17.0-b16 (Sun Microsystems Inc.)
+Bundle-SymbolicName: com.dynatrace.diagnostics.plugins.LinuxFilesystem
+ StatusPlugin;singleton:=true
+
